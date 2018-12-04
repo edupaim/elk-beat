@@ -1,54 +1,7 @@
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
-LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG LOG 
+{"type":"response","@timestamp":"2018-12-04T21:37:38Z","tags":[],"pid":1,"method":"get","statusCode":304,"req":{"url":"/ui/favicons/favicon-32x32.png","method":"get","headers":{"host":"localhost:5601","connection":"keep-alive","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:5601/app/kibana","accept-encoding":"gzip, deflate, br","accept-language":"pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7","if-none-match":"\"955547c4647d5cfd8d82c67af51ee0f44ce4d8ac\"","if-modified-since":"Fri, 16 Nov 2018 02:28:43 GMT"},"remoteAddress":"172.23.0.1","userAgent":"172.23.0.1","referer":"http://localhost:5601/app/kibana"},"res":{"statusCode":304,"responseTime":2,"contentLength":9},"message":"GET /ui/favicons/favicon-32x32.png 304 2ms - 9.0B"}
+{"type":"response","@timestamp":"2018-12-04T21:57:38Z","tags":[],"pid":1,"method":"get","statusCode":304,"req":{"url":"/ui/favicons/favicon-32x32.png","method":"get","headers":{"host":"localhost:5601","connection":"keep-alive","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:5601/app/kibana","accept-encoding":"gzip, deflate, br","accept-language":"pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7","if-none-match":"\"955547c4647d5cfd8d82c67af51ee0f44ce4d8ac\"","if-modified-since":"Fri, 16 Nov 2018 02:28:43 GMT"},"remoteAddress":"172.23.0.1","userAgent":"172.23.0.1","referer":"http://localhost:5601/app/kibana"},"res":{"statusCode":304,"responseTime":2,"contentLength":9},"message":"GET /ui/favicons/favicon-32x32.png 304 2ms - 9.0B"}
+{"type":"response","@timestamp":"2018-12-04T21:37:38Z","tags":[],"pid":1,"method":"get","statusCode":304,"req":{"url":"/ui/favicons/favicon-32x32.png","method":"get","headers":{"host":"localhost:5601","connection":"keep-alive","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:5601/app/kibana","accept-encoding":"gzip, deflate, br","accept-language":"pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7","if-none-match":"\"955547c4647d5cfd8d82c67af51ee0f44ce4d8ac\"","if-modified-since":"Fri, 16 Nov 2018 02:28:43 GMT"},"remoteAddress":"172.23.0.1","userAgent":"172.23.0.1","referer":"http://localhost:5601/app/kibana"},"res":{"statusCode":304,"responseTime":2,"contentLength":9},"message":"GET /ui/favicons/favicon-32x32.png 304 2ms - 9.0B"}
+{"type":"response","@timestamp":"2018-12-04T21:57:38Z","tags":[],"pid":1,"method":"get","statusCode":304,"req":{"url":"/ui/favicons/favicon-32x32.png","method":"get","headers":{"host":"localhost:5601","connection":"keep-alive","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:5601/app/kibana","accept-encoding":"gzip, deflate, br","accept-language":"pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7","if-none-match":"\"955547c4647d5cfd8d82c67af51ee0f44ce4d8ac\"","if-modified-since":"Fri, 16 Nov 2018 02:28:43 GMT"},"remoteAddress":"172.23.0.1","userAgent":"172.23.0.1","referer":"http://localhost:5601/app/kibana"},"res":{"statusCode":304,"responseTime":2,"contentLength":9},"message":"GET /ui/favicons/favicon-32x32.png 304 2ms - 9.0B"}
+{"type":"response","@timestamp":"2018-12-04T21:57:38Z","tags":[],"pid":1,"method":"get","statusCode":600,"req":{"url":"/ui/favicons/favicon-32x32.png","method":"get","headers":{"host":"localhost:5601","connection":"keep-alive","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:5601/app/kibana","accept-encoding":"gzip, deflate, br","accept-language":"pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7","if-none-match":"\"955547c4647d5cfd8d82c67af51ee0f44ce4d8ac\"","if-modified-since":"Fri, 16 Nov 2018 02:28:43 GMT"},"remoteAddress":"172.23.0.1","userAgent":"172.23.0.1","referer":"http://localhost:5601/app/kibana"},"res":{"statusCode":305,"responseTime":2,"contentLength":9},"message":"GET /ui/favicons/favicon-32x32.png 304 2ms - 9.0B"}
+{"type":"response","@timestamp":"2018-12-04T21:57:38Z","tags":[],"pid":1,"method":"get","statusCode":500,"req":{"url":"/ui/favicons/favicon-32x32.png","method":"get","headers":{"host":"localhost:5601","connection":"keep-alive","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:5601/app/kibana","accept-encoding":"gzip, deflate, br","accept-language":"pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7","if-none-match":"\"955547c4647d5cfd8d82c67af51ee0f44ce4d8ac\"","if-modified-since":"Fri, 16 Nov 2018 02:28:43 GMT"},"remoteAddress":"172.23.0.1","userAgent":"172.23.0.1","referer":"http://localhost:5601/app/kibana"},"res":{"statusCode":500,"responseTime":2,"contentLength":9},"message":"GET /ui/favicons/favicon-32x32.png 304 2ms - 9.0B"}
+{"type":"response","@timestamp":"2018-12-04T21:57:38Z","tags":[],"pid":1,"method":"get","statusCode":500,"req":{"url":"/ui/favicons/favicon-32x32.png","method":"get","headers":{"host":"localhost:5601","connection":"keep-alive","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:5601/app/kibana","accept-encoding":"gzip, deflate, br","accept-language":"pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7","if-none-match":"\"955547c4647d5cfd8d82c67af51ee0f44ce4d8ac\"","if-modified-since":"Fri, 16 Nov 2018 02:28:43 GMT"},"remoteAddress":"172.23.0.1","userAgent":"172.23.0.1","referer":"http://localhost:5601/app/kibana"},"res":{"statusCode":800,"responseTime":2,"contentLength":9},"message":"GET /ui/favicons/favicon-32x32.png 304 2ms - 9.0B"}

@@ -1,12 +1,18 @@
-filebeat.prospectors:
+filebeat.inputs:
 - type: log
-  enabled: true
   paths:
-  - /var/log/*.log
-  scan_frequency: 10s
+    - /var/log/*.log
+  scan_frequency: 1s
+
+setup.kibana:
+  host: "kibana:5601"
+
+filebeat.config.modules:
+  path: /filebeat/modules.d/*.yml
+  reload.enabled: false
 
 output.logstash:
-  hosts: ["localhost:5044"]
+  hosts: ["logstash:5044"]
 
-logging.to_files: true
-#logging.to_syslog: false
+setup.template.settings:
+  index.number_of_shards: 3
