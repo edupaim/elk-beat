@@ -1,0 +1,12 @@
+filebeat.prospectors:
+- type: log
+  enabled: true
+  paths:
+  - /var/log/*.log
+  scan_frequency: 10s
+
+output.logstash:
+  hosts: ["localhost:5044"]
+
+logging.to_files: true
+#logging.to_syslog: false
