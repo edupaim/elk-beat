@@ -1,0 +1,3 @@
+[submodule "appgolang-test-elk"]
+	path = appgolang-test-elk
+	url = https://github.com/edupaim/appgolang-test-elk
