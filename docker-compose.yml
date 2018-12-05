@@ -21,12 +21,14 @@ services:
     image: docker.elastic.co/beats/filebeat:6.5.1
     volumes:
       - ./filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml
-      - logpath:/var/log
+      - ./logs:/var/log:ro
     depends_on:
       - logstash
+  application:
+    image: edupaim/golang-app-test-elk-beat
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./logs:/app/log
 volumes:
   logpath:
-    driver: local
-    driver_opts:
-      device: /home/eduardo/go/src/appgolang-test-elk
-      o: bind
