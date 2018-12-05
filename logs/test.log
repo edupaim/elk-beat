@@ -1,2 +1,4 @@
 {"status":"ok", "count":3}
 {"status":"ok", "count":4}
+{"status":"fail", "count":3}
+{"status":"fail", "count":4}
