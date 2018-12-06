@@ -1,0 +1,8 @@
+metricbeat.modules:
+- module: apache
+  metricsets: ["status"]
+  period: 1s
+  enabled: true
+
+  # Apache hosts
+  hosts: ["logstash:5043"]

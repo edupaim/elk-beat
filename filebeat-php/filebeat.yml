@@ -1,0 +1,11 @@
+filebeat.prospectors:
+- module: apache2
+  access:
+    enabled: true
+    var.paths: ["/var/to/apache2/access.log"]
+  error:
+    enabled: true
+    var.paths: ["/var/log/apache2/error.log"]
+
+output.logstash:
+  hosts: ["logstash:5044"]
